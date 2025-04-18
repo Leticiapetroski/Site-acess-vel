@@ -3,7 +3,7 @@
 
 :root {
     --laranja-claro: #4B0082;
-    --alto-contraste-fundo: #ADD8E6;
+    --alto-contraste-fundo: #DDA0DD;
     --alto-contraste-texto: #4B0082;
     --alto-contraste-link: #8B008B;
 }
@@ -24,7 +24,7 @@ section {
 
 
 .nav-link {
-    color: #4B0082;
+    color: #DDA0DD;
     font-weight: 600;
 }
 
@@ -60,7 +60,7 @@ section {
 
 
 .botao-inicio {
-    background-color: var(#4B0082);
+    background-color: var(#DDA0DD);
     border-radius: 30px;
     border: none;
     width: 14em;
@@ -103,7 +103,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #4B0082;
+    background-color: #DDA0DD;
 
 }
 
@@ -132,13 +132,13 @@ h2 {
 }
 
 .formulario button {
-    background-color: #4B0082;
+    background-color: #DDA0DD;
     border: none;
     font-weight: bold;
 }
 
 .form-control {
-    background-color: #4B0082;
+    background-color: #DDA0DD;
 }
 .menu-acessibilidade{
     position: fixed;
